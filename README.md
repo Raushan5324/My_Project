@@ -1,2 +1,3 @@
 # My_Project
-this repository consists of project of web development.
+
+GitHub is a code hosting platform for version control and collaboration.
